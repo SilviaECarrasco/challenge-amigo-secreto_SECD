@@ -24,8 +24,10 @@ Funcionalidades:
 URL del proyecto: https://silviaecarrasco.github.io/challenge-amigo-secreto_SECD/
 
 Uso:
-  1.- Escribe un nombre en el campo de texto y presiona el boton "Añadir"
-  2.- Repite el proceso hasta ingresar todos los nombres.
-  3.-Haz click en el boton "Sortear Amigo"
+1. Abre la URL del proyecto en tu navegaro web: https://silviaecarrasco.github.io/challenge-amigo-secreto_SECD/
+2.  Escribe un nombre en el campo de texto y presiona el boton "Añadir"
+3.  Repite el proceso hasta ingresar todos los nombres.
+4.  Haz click en el boton "Sortear Amigo"
+5.  el amigo sorteado aparecerá destacado en pantalla.
 
 Autor: Silvia E Carrasco.
